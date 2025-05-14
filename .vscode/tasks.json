@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build Exercise1",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/Exercise1"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "build Exercise2",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/Exercise2"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
