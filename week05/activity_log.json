@@ -1,0 +1,27 @@
+{
+  "BreathingCount": 2,
+  "ReflectionCount": 1,
+  "ListingCount": 0,
+  "GratitudeCount": 0,
+  "TotalSeconds": 70,
+  "Sessions": [
+    {
+      "Timestamp": "2025-10-07T19:37:58.4379666-03:00",
+      "Activity": "Actividad de Respiraci\u00F3n",
+      "DurationSeconds": 30,
+      "ItemsCount": null
+    },
+    {
+      "Timestamp": "2025-10-07T19:39:02.7662908-03:00",
+      "Activity": "Actividad de Reflexi\u00F3n",
+      "DurationSeconds": 20,
+      "ItemsCount": null
+    },
+    {
+      "Timestamp": "2025-10-07T19:44:00.3087224-03:00",
+      "Activity": "Breathing Activity",
+      "DurationSeconds": 20,
+      "ItemsCount": null
+    }
+  ]
+}
